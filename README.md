@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hanzheng2021
 - 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently a PhD student in the University of British Columbia
+- 🌱 I’m currently a PhD student at the University of British Columbia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hzlyu@student.ubc.ca
 
