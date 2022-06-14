@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hanzheng2021
-- 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently a PhD student at the University of British Columbia
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Blockchain technology: blockchain scaling and consensus protocol design
+- 🌱 I’m currently first-year PhD student at UBC and a visiting student at SUSTech
+- 💞️ I’m also interested in MPC and TEE
 - 📫 How to reach me: hzlyu@student.ubc.ca
 
 <!---
