@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hanzheng2021
 - 👀 I’m interested in Blockchain technology: blockchain scaling and consensus protocol design
 - 🌱 I’m currently a PhD student at UBC
-- 💞️ I’m also interested in Game Theory, MPC, and TEE
+- 💞️ I’m also interested in RL, MPC, and TEE
 - 📫 How to reach me: hzlyu@student.ubc.ca
 
 <!---
